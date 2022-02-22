@@ -1,0 +1,9 @@
+{
+    "name": "Site Reader",
+    "description": "Getting Important details from site",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "popup.html"
+    }
+}
